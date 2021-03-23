@@ -18,6 +18,7 @@ some side projects, research projects.
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicsufer)
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 ## :man_scientist: I'm a software Engineer:
 - :cloud: Cloud enthusiast.
 - :bullettrain_front: DevOps cultist.
