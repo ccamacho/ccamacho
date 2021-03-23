@@ -18,6 +18,9 @@ some side projects, and a few research projects.
 
 ## :chart: Info:
 
+[![Website](https://img.shields.io/website?label=www.anstack.com&style=for-the-badge&url=https%3A%2F%2Fwww.anstack.com)](https://www.anstack.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicsufer)
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -74,6 +77,3 @@ some side projects, and a few research projects.
 
 [website]: https://www.anstack.com
 [linkedin]: https://linkedin.com/in/carlosdcg
-
-[![Website](https://img.shields.io/website?label=www.anstack.com&style=for-the-badge&url=https%3A%2F%2Fwww.anstack.com)](https://www.anstack.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicsufer)
