@@ -1,15 +1,14 @@
 # Hi there, I'm Carlos - aka [ccamacho][website] :wave:
 
-I'm currently a software engineer [@Red Hat](www.redhat.com) based in Spain. I am working on cloud computing technologies,
+I'm currently a software engineer [@Red Hat](https://www.redhat.com) based in Spain. I am working on cloud computing technologies,
 some side projects, and a few research projects.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## :zap: Some quick facts:
-- :cloud: I'm a cloud enthusiast, interested in some resiliency research topics.
+- :cloud: I'm a cloud enthusiast.
 - :clown_face: Master of the YAML programmer distopia.
 - :monocle_face: Learning about <strong>cloud computing</strong>, <strong>distributed systems</strong>, <strong>system's resiliency</strong>, and a bit of <strong>ML</strong>.</li>
-- :technologist: Most of my projects are available on <a href="https://github.com/ccamacho">Github</a>.</li>
 - :book: I regulary write articles on <a href="https://www.anstack.com">my blog</a>.</li>
 - :speech_balloon: Ping me about <strong>OpenStack, OpenShift, Kubernetes, KubeInit, chaos engineering or any related cloud stuff</strong>.</li>
 - :orange_book: Check out my <a href="https://www.anstack.com/cv">resume</a>.</li>
