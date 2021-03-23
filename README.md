@@ -3,9 +3,10 @@
 I'm currently a software engineer [@Red Hat](https://www.redhat.com) based in Spain. I am working on cloud computing technologies,
 some side projects, and a few research projects.
 
+## :zap: Some quick facts:
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-## :zap: Some quick facts:
 - :cloud: I'm a cloud enthusiast.
 - :clown_face: Master of the YAML programmer distopia.
 - :monocle_face: Learning about <strong>cloud computing</strong>, <strong>distributed systems</strong>, <strong>system's resiliency</strong>, and a bit of <strong>ML</strong>.</li>
