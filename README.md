@@ -7,12 +7,14 @@ some side projects, and a few research projects.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+- :cowboy_hat_face: A proud Red Hatter.
 - :cloud: I'm a cloud enthusiast.
 - :clown_face: Master of the YAML programmer distopia.
-- :monocle_face: Learning about <strong>cloud computing</strong>, <strong>distributed systems</strong>, <strong>system's resiliency</strong>, and a bit of <strong>ML</strong>.</li>
-- :book: I regulary write articles on <a href="https://www.anstack.com">my blog</a>.</li>
-- :speech_balloon: Ping me about <strong>OpenStack, OpenShift, Kubernetes, KubeInit, chaos engineering or any related cloud stuff</strong>.</li>
-- :orange_book: Check out my <a href="https://www.anstack.com/cv">resume</a>.</li>
+- :monocle_face: Learning about <strong>cloud computing</strong>, <strong>distributed systems</strong>, <strong>system's resiliency</strong>, and a bit of <strong>ML</strong>.
+- :technologist: Most of my projects are available on <a href="https://github.com/ccamacho">Github</a>.
+- :book: I regulary write articles on <a href="https://www.anstack.com">my blog</a>.
+- :speech_balloon: Ping me about <strong>OpenStack, OpenShift, Kubernetes, KubeInit, chaos engineering or any related cloud stuff</strong>.
+- :orange_book: Check out my <a href="https://www.anstack.com/cv">resume</a>.
 
 ## :dart: Current goals:
 - Survive these crazy times...
