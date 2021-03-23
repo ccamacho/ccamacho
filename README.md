@@ -1,17 +1,13 @@
 # Hi there, I'm Carlos - aka [ccamacho][website] :wave:
 
-I'm currently a software engineer [@Red Hat](www.redhat.com) based in :ES:. I am working on cloud computing technologies,
-some side projects, research projects.
-
-[![Website](https://img.shields.io/website?label=www.anstack.com&style=for-the-badge&url=https%3A%2F%2Fwww.anstack.com)](https://www.anstack.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicsufer)
+I'm currently a software engineer [@Red Hat](www.redhat.com) based in Spain. I am working on cloud computing technologies,
+some side projects, and a few research projects.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## :zap: Some quick facts:
 - :cloud: I'm a cloud enthusiast, interested in some resiliency research topics.
-- :clown_face: Not so proud of mastering the YAML programmer distopia.
-- :telescope: I’m currently working on <a href="https://github.com/os-migrate/os-migrate">os-migrate</a>.</li>
+- :clown_face: Master of the YAML programmer distopia.
 - :monocle_face: Learning about <strong>cloud computing</strong>, <strong>distributed systems</strong>, <strong>system's resiliency</strong>, and a bit of <strong>ML</strong>.</li>
 - :technologist: Most of my projects are available on <a href="https://github.com/ccamacho">Github</a>.</li>
 - :book: I regulary write articles on <a href="https://www.anstack.com">my blog</a>.</li>
@@ -79,3 +75,6 @@ some side projects, research projects.
 
 [website]: https://www.anstack.com
 [linkedin]: https://linkedin.com/in/carlosdcg
+
+[![Website](https://img.shields.io/website?label=www.anstack.com&style=for-the-badge&url=https%3A%2F%2Fwww.anstack.com)](https://www.anstack.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicsufer)
