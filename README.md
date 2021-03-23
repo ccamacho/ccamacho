@@ -1,29 +1,22 @@
 # Hi there, I'm Carlos - aka [ccamacho][website] :wave:
 
-I'm currently a software engineer [@Red Hat](www.redhat.com) based in Spain. I am working on cloud computing technologies,
+I'm currently a software engineer [@Red Hat](www.redhat.com) based in :ES:. I am working on cloud computing technologies,
 some side projects, research projects.
-
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ Some Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/os-migrate/os-migrate">os-migrate</a>.</li>
-<li>🧐 Learning about <strong>cloud computing</strong>, <strong>distributed systems</strong>, <strong>system's resiliency</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/ccamacho">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://www.anstack.com">my blog</a>.</li>
-<li>💬 Ping me about <strong>OpenStack, OpenShift, Kubernetes, KubeInit, chaos engineering or any related cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.anstack.com/cv">resume</a>.</li>
-</ul>
 
 [![Website](https://img.shields.io/website?label=www.anstack.com&style=for-the-badge&url=https%3A%2F%2Fwww.anstack.com)](https://www.anstack.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicsufer)
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-## :man_scientist: I'm a software Engineer:
-- :cloud: Cloud enthusiast.
-- :bullettrain_front: DevOps cultist.
-- :heart: CI/CD lover.
-- :clown_face: YAML programmer.
+## :zap: Some quick facts:
+- :cloud: I'm a cloud enthusiast, interested in some resiliency research topics.
+- :clown_face: Not so proud of mastering the YAML programmer distopia.
+- :telescope: I’m currently working on <a href="https://github.com/os-migrate/os-migrate">os-migrate</a>.</li>
+- :monocle_face: Learning about <strong>cloud computing</strong>, <strong>distributed systems</strong>, <strong>system's resiliency</strong>, and a bit of <strong>ML</strong>.</li>
+- :technologist: Most of my projects are available on <a href="https://github.com/ccamacho">Github</a>.</li>
+- :book: I regulary write articles on <a href="https://www.anstack.com">my blog</a>.</li>
+- :speech_balloon: Ping me about <strong>OpenStack, OpenShift, Kubernetes, KubeInit, chaos engineering or any related cloud stuff</strong>.</li>
+- :orange_book: Check out my <a href="https://www.anstack.com/cv">resume</a>.</li>
 
 ## :dart: Current goals:
 - Survive these crazy times...
