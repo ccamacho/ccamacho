@@ -76,12 +76,9 @@ some side projects, and a few research projects.
 
 ### GitHub stats
 
-<img width="60%" align="left" alt="Carlos's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ccamacho&show_icons=true&hide_border=true&hide_title=true" />
-
 [![](https://raw.githubusercontent.com/ccamacho/ccamacho/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/ccamacho/ccamacho/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ccamacho/ccamacho/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ccamacho/ccamacho/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ccamacho/ccamacho/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ccamacho/ccamacho/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ccamacho/ccamacho/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [website]: https://www.anstack.com
 [linkedin]: https://linkedin.com/in/carlosdcg
