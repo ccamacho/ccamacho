@@ -52,6 +52,16 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning how to deploy OpenShift with KubeInit](https://www.anstack.com/blog/2021/03/12/Learning-how-to-deploy-OpenShift-with-KubeInit.html)
+- [Multihost deployments with Kubeinit](https://www.anstack.com/blog/2021/02/20/Multihost-deployment-with-kubeinit.html)
+- [How to deploy Amazon EKS-D on top of a Libvirt host with KubeInit in 15 minutes](https://www.anstack.com/blog/2020/12/07/How-to-deploy-Amazon-EKS-D-in-a-Libvirt-host.html)
+- [KubeInit 4-in-1 - Deploying multiple Kubernetes distributions (K8S, OKD, RKE, and CDK) with the same platform](https://www.anstack.com/blog/2020/10/19/KubeInit-4-in-1-Deploying-multiple-Kubernetes-distributions-K8S-OKD-RKE-and-CDK-with-the-same-platform.html)
+- [Deploying multiple KubeInit clusters in the same hypervisor](https://www.anstack.com/blog/2020/10/04/Multiple-KubeInit-clusters-in-the-same-hypervisor.html)
+- [Persistent volumes and claims in KubeInit](https://www.anstack.com/blog/2020/09/28/Persistent-volumes-and-claims-in-KubeInit.html)
+- [Deploying KubeInit from a container](https://www.anstack.com/blog/2020/09/11/Deploying-KubeInit-from-a-container.html)
+- [KubeInit External access for OpenShift/OKD deployments with Libvirt](https://www.anstack.com/blog/2020/08/25/KubeInit-External-access-for-OpenShift-OKD-deployments-with-Libvirt.html)
+- [A review of the MachineConfig operator](https://www.anstack.com/blog/2020/08/16/a-review-of-the-machineconfig-operator.html)
+- [The easiest and fastest way to deploy an OKD 4.5 cluster in a Libvirt/KVM host](https://www.anstack.com/blog/2020/07/31/the-fastest-and-simplest-way-to-deploy-okd-openshift-4-5.html)
 <!-- BLOG-POST-LIST:END -->
 
 
