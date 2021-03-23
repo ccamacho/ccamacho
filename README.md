@@ -1,18 +1,18 @@
-### Hi there, I'm Carlos - aka [ccamacho][website] :wave:
+# Hi there, I'm Carlos - aka [ccamacho][website] :wave:
 
 [![Website](https://img.shields.io/website?label=www.anstack.com&style=for-the-badge&url=https%3A%2F%2Fwww.anstack.com)](https://www.anstack.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicsufer)
 
-## I'm a software Engineer:
+## :man_scientist: I'm a software Engineer:
 - :cloud: Cloud enthusiast.
 - :bullettrain_front: DevOps cultist.
 - :heart: CI/CD lover.
 - :clown_face: YAML programmer.
 
-### :dart: Current goals:
+## :dart: Current goals:
 - Survive these crazy times...
 
-## :chart: Stats
+## :chart: Info:
 
 <h3>Open source projects</h3>
 <table>
@@ -64,8 +64,9 @@
 - [The easiest and fastest way to deploy an OKD 4.5 cluster in a Libvirt/KVM host](https://www.anstack.com/blog/2020/07/31/the-fastest-and-simplest-way-to-deploy-okd-openshift-4-5.html)
 <!-- BLOG-POST-LIST:END -->
 
+### GitHub stats
 
-<img width="60%" align="left" alt="Carlos's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ccamacho&show_icons=true&hide_border=true" />
+<img width="60%" align="left" alt="Carlos's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ccamacho&show_icons=true&hide_border=true&hide_title=true" />
 
 [website]: https://www.anstack.com
 [linkedin]: https://linkedin.com/in/carlosdcg
