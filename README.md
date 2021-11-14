@@ -66,7 +66,7 @@ some side projects, and a few research projects.
 - [Learning how to deploy OpenShift with KubeInit](https://www.anstack.com/blog/2021/03/12/Learning-how-to-deploy-OpenShift-with-KubeInit.html)
 - [Multihost deployments with Kubeinit](https://www.anstack.com/blog/2021/02/20/Multihost-deployment-with-kubeinit.html)
 - [How to deploy Amazon EKS-D on top of a Libvirt host with KubeInit in 15 minutes](https://www.anstack.com/blog/2020/12/07/How-to-deploy-Amazon-EKS-D-in-a-Libvirt-host.html)
-- [KubeInit 4-in-1 - Deploying multiple Kubernetes distributions (K8S, OKD, RKE, and CDK) with the same platform](https://www.anstack.com/blog/2020/10/19/KubeInit-4-in-1-Deploying-multiple-Kubernetes-distributions-K8S-OKD-RKE-and-CDK-with-the-same-platform.html)
+- [KubeInit 4-in-1 - Deploying multiple Kubernetes distributions &lpar;K8S, OKD, RKE, and CDK&rpar; with the same platform](https://www.anstack.com/blog/2020/10/19/KubeInit-4-in-1-Deploying-multiple-Kubernetes-distributions-K8S-OKD-RKE-and-CDK-with-the-same-platform.html)
 - [Deploying multiple KubeInit clusters in the same hypervisor](https://www.anstack.com/blog/2020/10/04/Multiple-KubeInit-clusters-in-the-same-hypervisor.html)
 - [Persistent volumes and claims in KubeInit](https://www.anstack.com/blog/2020/09/28/Persistent-volumes-and-claims-in-KubeInit.html)
 - [Deploying KubeInit from a container](https://www.anstack.com/blog/2020/09/11/Deploying-KubeInit-from-a-container.html)
