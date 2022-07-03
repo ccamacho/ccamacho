@@ -63,6 +63,7 @@ some side projects, and a few research projects.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Kubernetes cluster with Windows containers support](https://www.pubstack.com/blog/2022/06/30/Kubernetes-cluster-with-Windows-containers-support.html)
 - [Learning how to deploy OpenShift with KubeInit](https://www.pubstack.com/blog/2021/03/12/Learning-how-to-deploy-OpenShift-with-KubeInit.html)
 - [Multihost deployments with Kubeinit](https://www.pubstack.com/blog/2021/02/20/Multihost-deployment-with-kubeinit.html)
 - [How to deploy Amazon EKS-D on top of a Libvirt host with KubeInit in 15 minutes](https://www.pubstack.com/blog/2020/12/07/How-to-deploy-Amazon-EKS-D-in-a-Libvirt-host.html)
@@ -72,7 +73,6 @@ some side projects, and a few research projects.
 - [Deploying KubeInit from a container](https://www.pubstack.com/blog/2020/09/11/Deploying-KubeInit-from-a-container.html)
 - [KubeInit External access for OpenShift/OKD deployments with Libvirt](https://www.pubstack.com/blog/2020/08/25/KubeInit-External-access-for-OpenShift-OKD-deployments-with-Libvirt.html)
 - [A review of the MachineConfig operator](https://www.pubstack.com/blog/2020/08/16/a-review-of-the-machineconfig-operator.html)
-- [The easiest and fastest way to deploy an OKD 4.5 cluster in a Libvirt/KVM host](https://www.pubstack.com/blog/2020/07/31/the-fastest-and-simplest-way-to-deploy-okd-openshift-4-5.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
