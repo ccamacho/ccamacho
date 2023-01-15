@@ -63,6 +63,7 @@ some side projects, and a few research projects.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT a world breaker technology](https://www.pubstack.com/blog/2022/12/10/chatgpt.html)
 - [Deploying a Kubernetes cluster with Windows containers support](https://www.pubstack.com/blog/2022/06/30/Kubernetes-cluster-with-Windows-containers-support.html)
 - [Learning how to deploy OpenShift with KubeInit](https://www.pubstack.com/blog/2021/03/12/Learning-how-to-deploy-OpenShift-with-KubeInit.html)
 - [Multihost deployments with Kubeinit](https://www.pubstack.com/blog/2021/02/20/Multihost-deployment-with-kubeinit.html)
@@ -72,7 +73,6 @@ some side projects, and a few research projects.
 - [Persistent volumes and claims in KubeInit](https://www.pubstack.com/blog/2020/09/28/Persistent-volumes-and-claims-in-KubeInit.html)
 - [Deploying KubeInit from a container](https://www.pubstack.com/blog/2020/09/11/Deploying-KubeInit-from-a-container.html)
 - [KubeInit External access for OpenShift/OKD deployments with Libvirt](https://www.pubstack.com/blog/2020/08/25/KubeInit-External-access-for-OpenShift-OKD-deployments-with-Libvirt.html)
-- [A review of the MachineConfig operator](https://www.pubstack.com/blog/2020/08/16/a-review-of-the-machineconfig-operator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
