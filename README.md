@@ -63,6 +63,7 @@ some side projects, and a few research projects.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes MLOps 101: Deployment and usage](https://www.pubstack.com/blog/2023/07/17/mlops-101.html)
 - [The homelab project](https://www.pubstack.com/blog/2023/05/26/the-homelab-project.html)
 - [Agile 101 +Jira](https://www.pubstack.com/blog/2023/03/23/Agile-101.html)
 - [ChatGPT a world breaker technology](https://www.pubstack.com/blog/2022/12/10/chatgpt.html)
@@ -72,7 +73,6 @@ some side projects, and a few research projects.
 - [How to deploy Amazon EKS-D on top of a Libvirt host with KubeInit in 15 minutes](https://www.pubstack.com/blog/2020/12/07/How-to-deploy-Amazon-EKS-D-in-a-Libvirt-host.html)
 - [KubeInit 4-in-1 - Deploying multiple Kubernetes distributions &lpar;K8S, OKD, RKE, and CDK&rpar; with the same platform](https://www.pubstack.com/blog/2020/10/19/KubeInit-4-in-1-Deploying-multiple-Kubernetes-distributions-K8S-OKD-RKE-and-CDK-with-the-same-platform.html)
 - [Deploying multiple KubeInit clusters in the same hypervisor](https://www.pubstack.com/blog/2020/10/04/Multiple-KubeInit-clusters-in-the-same-hypervisor.html)
-- [Persistent volumes and claims in KubeInit](https://www.pubstack.com/blog/2020/09/28/Persistent-volumes-and-claims-in-KubeInit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
