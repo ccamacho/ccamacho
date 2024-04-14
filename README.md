@@ -63,6 +63,7 @@ some side projects, and a few research projects.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharing your GPU in the cloud](https://www.pubstack.com/blog/2024/04/08/sharing-your-gpu-in-the-cloud.html)
 - [7 career skills: Build your network](https://www.pubstack.com/blog/2023/10/03/build-your-network.html)
 - [Kubernetes MLOps 101: Deployment and usage](https://www.pubstack.com/blog/2023/07/17/mlops-101.html)
 - [The homelab project](https://www.pubstack.com/blog/2023/05/26/the-homelab-project.html)
@@ -72,7 +73,6 @@ some side projects, and a few research projects.
 - [Learning how to deploy OpenShift with KubeInit](https://www.pubstack.com/blog/2021/03/12/Learning-how-to-deploy-OpenShift-with-KubeInit.html)
 - [Multihost deployments with Kubeinit](https://www.pubstack.com/blog/2021/02/20/Multihost-deployment-with-kubeinit.html)
 - [How to deploy Amazon EKS-D on top of a Libvirt host with KubeInit in 15 minutes](https://www.pubstack.com/blog/2020/12/07/How-to-deploy-Amazon-EKS-D-in-a-Libvirt-host.html)
-- [KubeInit 4-in-1 - Deploying multiple Kubernetes distributions &lpar;K8S, OKD, RKE, and CDK&rpar; with the same platform](https://www.pubstack.com/blog/2020/10/19/KubeInit-4-in-1-Deploying-multiple-Kubernetes-distributions-K8S-OKD-RKE-and-CDK-with-the-same-platform.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
