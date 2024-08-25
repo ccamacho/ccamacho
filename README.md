@@ -63,6 +63,8 @@ some side projects, and a few research projects.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM performance: Speculative decoding](https://www.pubstack.com/blog/2024/07/01/llm-speculative-decoding.html)
+- [Sizing an LLM: Parameters](https://www.pubstack.com/blog/2024/05/01/llm-parameters.html)
 - [Sharing your GPU in the cloud](https://www.pubstack.com/blog/2024/04/08/sharing-your-gpu-in-the-cloud.html)
 - [7 career skills: Build your network](https://www.pubstack.com/blog/2023/10/03/build-your-network.html)
 - [Kubernetes MLOps 101: Deployment and usage](https://www.pubstack.com/blog/2023/07/17/mlops-101.html)
@@ -71,8 +73,6 @@ some side projects, and a few research projects.
 - [ChatGPT a world breaker technology](https://www.pubstack.com/blog/2022/12/10/chatgpt.html)
 - [Deploying a Kubernetes cluster with Windows containers support](https://www.pubstack.com/blog/2022/06/30/Kubernetes-cluster-with-Windows-containers-support.html)
 - [Learning how to deploy OpenShift with KubeInit](https://www.pubstack.com/blog/2021/03/12/Learning-how-to-deploy-OpenShift-with-KubeInit.html)
-- [Multihost deployments with Kubeinit](https://www.pubstack.com/blog/2021/02/20/Multihost-deployment-with-kubeinit.html)
-- [How to deploy Amazon EKS-D on top of a Libvirt host with KubeInit in 15 minutes](https://www.pubstack.com/blog/2020/12/07/How-to-deploy-Amazon-EKS-D-in-a-Libvirt-host.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
