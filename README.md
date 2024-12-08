@@ -63,6 +63,7 @@ some side projects, and a few research projects.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL Modeling Workflow with pgModeler and binaries from pgmodeler-builder](https://www.pubstack.com/blog/2024/12/05/pgmodeler-builder.html)
 - [LLM performance: Speculative decoding](https://www.pubstack.com/blog/2024/07/01/llm-speculative-decoding.html)
 - [Sizing an LLM: Parameters](https://www.pubstack.com/blog/2024/05/01/llm-parameters.html)
 - [Sharing your GPU in the cloud](https://www.pubstack.com/blog/2024/04/08/sharing-your-gpu-in-the-cloud.html)
@@ -72,7 +73,6 @@ some side projects, and a few research projects.
 - [Agile 101 +Jira](https://www.pubstack.com/blog/2023/03/23/Agile-101.html)
 - [ChatGPT a world breaker technology](https://www.pubstack.com/blog/2022/12/10/chatgpt.html)
 - [Deploying a Kubernetes cluster with Windows containers support](https://www.pubstack.com/blog/2022/06/30/Kubernetes-cluster-with-Windows-containers-support.html)
-- [Learning how to deploy OpenShift with KubeInit](https://www.pubstack.com/blog/2021/03/12/Learning-how-to-deploy-OpenShift-with-KubeInit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
