@@ -63,16 +63,16 @@ some side projects, and a few research projects.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL Modeling Workflow with pgModeler and binaries from pgmodeler-builder](https://www.pubstack.com/blog/2024/12/05/pgmodeler-builder.html)
-- [LLM performance: Speculative decoding](https://www.pubstack.com/blog/2024/07/01/llm-speculative-decoding.html)
-- [Sizing an LLM: Parameters](https://www.pubstack.com/blog/2024/05/01/llm-parameters.html)
-- [Sharing your GPU in the cloud](https://www.pubstack.com/blog/2024/04/08/sharing-your-gpu-in-the-cloud.html)
-- [7 career skills: Build your network](https://www.pubstack.com/blog/2023/10/03/build-your-network.html)
-- [Kubernetes MLOps 101: Deployment and usage](https://www.pubstack.com/blog/2023/07/17/mlops-101.html)
-- [The homelab project](https://www.pubstack.com/blog/2023/05/26/the-homelab-project.html)
-- [Agile 101 +Jira](https://www.pubstack.com/blog/2023/03/23/Agile-101.html)
-- [ChatGPT a world breaker technology](https://www.pubstack.com/blog/2022/12/10/chatgpt.html)
-- [Deploying a Kubernetes cluster with Windows containers support](https://www.pubstack.com/blog/2022/06/30/Kubernetes-cluster-with-Windows-containers-support.html)
+- [OpenClaw: The Open-Source AI Agent Framework That Changed Everything](https://www.pubstack.com/blog/2026/05/21/openclaw-the-open-source-ai-agent-framework.html)
+- [From User Stories to AI Prompts: Bridging Agile and Agentic Development](https://www.pubstack.com/blog/2026/05/21/agile-meets-agentic.html)
+- [The Future of Software Engineering with Autonomous AI Agents](https://www.pubstack.com/blog/2026/05/20/future-of-software-engineering.html)
+- [Human-in-the-Loop: Designing AI Agent Guardrails](https://www.pubstack.com/blog/2026/04/18/human-in-the-loop.html)
+- [Multi-Agent Systems: When One AI Isn&#39;t Enough](https://www.pubstack.com/blog/2026/02/12/multi-agent-systems.html)
+- [The Spec-Code-Verify Loop: A New Development Paradigm](https://www.pubstack.com/blog/2025/12/08/the-spec-code-verify-loop.html)
+- [Tool Use in AI Agents: Extending LLM Capabilities](https://www.pubstack.com/blog/2025/10/05/tool-use-in-ai-agents.html)
+- [Test-Driven AI: How Specifications Become Validation](https://www.pubstack.com/blog/2025/07/22/test-driven-ai.html)
+- [Building AI Agent Pipelines: Architecture Patterns](https://www.pubstack.com/blog/2025/05/10/building-ai-agent-pipelines.html)
+- [Spec-Driven Development: Writing the What Before the How](https://www.pubstack.com/blog/2025/03/20/spec-driven-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
