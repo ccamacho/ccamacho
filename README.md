@@ -63,6 +63,7 @@ some side projects, and a few research projects.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SuperInference: A Feedback-Augmented LLM Agent Framework for Complex Reasoning](https://www.pubstack.com/blog/2026/06/05/superinference-feedback-augmented-llm-agent-framework.html)
 - [OpenClaw: The Open-Source AI Agent Framework That Changed Everything](https://www.pubstack.com/blog/2026/05/21/openclaw-the-open-source-ai-agent-framework.html)
 - [From User Stories to AI Prompts: Bridging Agile and Agentic Development](https://www.pubstack.com/blog/2026/05/21/agile-meets-agentic.html)
 - [The Future of Software Engineering with Autonomous AI Agents](https://www.pubstack.com/blog/2026/05/20/future-of-software-engineering.html)
@@ -72,7 +73,6 @@ some side projects, and a few research projects.
 - [Tool Use in AI Agents: Extending LLM Capabilities](https://www.pubstack.com/blog/2025/10/05/tool-use-in-ai-agents.html)
 - [Test-Driven AI: How Specifications Become Validation](https://www.pubstack.com/blog/2025/07/22/test-driven-ai.html)
 - [Building AI Agent Pipelines: Architecture Patterns](https://www.pubstack.com/blog/2025/05/10/building-ai-agent-pipelines.html)
-- [Spec-Driven Development: Writing the What Before the How](https://www.pubstack.com/blog/2025/03/20/spec-driven-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
