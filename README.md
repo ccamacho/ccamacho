@@ -63,6 +63,7 @@ some side projects, and a few research projects.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenShell + SuperInference: Running Autonomous AI Agents at Scale in Secure Container Sandboxes](https://www.pubstack.com/blog/2026/06/15/openshell-superinference-autonomous-agents-at-scale.html)
 - [FRITO: Free-Tier AI Coding That Matches Claude Opus 4](https://www.pubstack.com/blog/2026/06/11/frito-free-tier-ai-coding-matches-premium-models.html)
 - [SuperInference: A Feedback-Augmented LLM Agent Framework for Complex Reasoning](https://www.pubstack.com/blog/2026/06/05/superinference-feedback-augmented-llm-agent-framework.html)
 - [OpenClaw: The Open-Source AI Agent Framework That Changed Everything](https://www.pubstack.com/blog/2026/05/21/openclaw-the-open-source-ai-agent-framework.html)
@@ -72,7 +73,6 @@ some side projects, and a few research projects.
 - [Multi-Agent Systems: When One AI Isn&#39;t Enough](https://www.pubstack.com/blog/2026/02/12/multi-agent-systems.html)
 - [The Spec-Code-Verify Loop: A New Development Paradigm](https://www.pubstack.com/blog/2025/12/08/the-spec-code-verify-loop.html)
 - [Tool Use in AI Agents: Extending LLM Capabilities](https://www.pubstack.com/blog/2025/10/05/tool-use-in-ai-agents.html)
-- [Test-Driven AI: How Specifications Become Validation](https://www.pubstack.com/blog/2025/07/22/test-driven-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
